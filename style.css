@@ -7,7 +7,7 @@ html, body {
   
   html {
     font-size: 10px;
-    background-color: #a9a9a9;
+    background-color: linear-gradient(#533564, #6D4E7E);
   }
   
   body {
@@ -57,7 +57,7 @@ html, body {
   }
   
   body > * {
-    background-color: linear-gradient( #3F2050, #1B0527); 
+    background-color: #a9a9a9; 
     padding: 1%;
   }
   
