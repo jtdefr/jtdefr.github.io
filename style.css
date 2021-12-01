@@ -1,3 +1,13 @@
+header.page-header {
+    background: no-repeat left/cover url(/media/examples/puppy-header-logo.jpg);
+    display: flex;
+    height: 120px;
+    min-width: 120px;
+    align-items: center;
+    color: #6D4E7E;
+    text-shadow: #000 0 0 .2em;
+}
+
 
 body {
     font-family: cursive;
